@@ -2,7 +2,6 @@
 
 <h2>
   Psychologist with love for technology! Artificial Intelligence and Machine Learning student and passionate learner! 
-  
   👨‍💻 UX Projects:</h2>
 
 - <b>DogWalker App:</b>

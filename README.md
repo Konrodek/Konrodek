@@ -1,6 +1,9 @@
 <h1>Hi, I'm Konrad!</h1>
 
-<h2>👨‍💻 UX Projects:</h2>
+<h2>
+  Psychologist with love for technology! Artificial Intelligence and Machine Learning student and passionate learner! 
+  
+  👨‍💻 UX Projects:</h2>
 
 - <b>DogWalker App:</b>
   - [Hi-Fi DogWalker Project](https://www.figma.com/file/qxok7yUTTRky79BFDeRMZL/doggo?type=design&node-id=0%3A1&mode=design&t=EvWsYWJEGGrRgVUU-1)
@@ -13,8 +16,6 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Exercise during the course</b>
   - [Elevator Control Panel inside 10 000 Floor Building](https://www.figma.com/file/x2K0NZbqjic7871nTgLxko/Untitled?type=design&node-id=0%3A1&mode=design&t=ZJfad430u0TXUTj9-1)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 

@@ -1,8 +1,8 @@
 <h1>Hi, I'm Konrad!</h1>
 
 <h2>
-  Psychologist with love for technology! Artificial Intelligence and Machine Learning student and passionate learner! 
-  👨‍💻 UX Projects:</h2>
+  <b></b>Psychologist with love for technology! Artificial Intelligence and Machine Learning student and passionate learner!</h2></b> 
+  <b></b>👨‍💻 UX Projects:</b></h2>
 
 - <b>DogWalker App:</b>
   - [Hi-Fi DogWalker Project](https://www.figma.com/file/qxok7yUTTRky79BFDeRMZL/doggo?type=design&node-id=0%3A1&mode=design&t=EvWsYWJEGGrRgVUU-1)

@@ -6,13 +6,13 @@
   - [Hi-Fi DogWalker Project](https://www.figma.com/file/qxok7yUTTRky79BFDeRMZL/doggo?type=design&node-id=0%3A1&mode=design&t=EvWsYWJEGGrRgVUU-1)
   - [Lo-Fi DogWalker Project](https://www.figma.com/file/ullcJGPitG2Csw0xXSn6jA/Lo-Fi-DogWalker?type=design&node-id=0%3A1&mode=design&t=trNY9uqe2WC68f3a-1)
   - [Wireframes DogWalker Project](https://www.figma.com/file/c0UdZpn8uMOUOLJ6UwBEgT/wireframes-DogWalker?type=design&node-id=0%3A1&mode=design&t=trNY9uqe2WC68f3a-1)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Discord Productivity Extension</b>
+  - [Lo-Fi Discord Productivity Extension](https://www.figma.com/file/3aRofZYPBBp1jTc5LFJ2S9/Lo-Fi?type=design&mode=design&t=RF72GB3OdNtqClX8-1)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Exercise during the course</b>
+  - [Elevator Control Panel inside 10 000 Floor Building](https://www.figma.com/file/x2K0NZbqjic7871nTgLxko/Untitled?type=design&node-id=0%3A1&mode=design&t=ZJfad430u0TXUTj9-1)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
@@ -26,15 +26,3 @@
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

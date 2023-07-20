@@ -12,7 +12,8 @@
   - [Lo-Fi Discord Productivity Extension](https://www.figma.com/file/3aRofZYPBBp1jTc5LFJ2S9/Lo-Fi?type=design&mode=design&t=RF72GB3OdNtqClX8-1)
 - <b>Exercise during the UX course</b>
   - [Elevator Control Panel inside 10 000 Floor Building](https://www.figma.com/file/x2K0NZbqjic7871nTgLxko/Untitled?type=design&node-id=0%3A1&mode=design&t=ZJfad430u0TXUTj9-1)
-
+- <b>Collaborative project</b>
+  - [Akademia Programisty](https://akademiaprogramisty.pl/)
 
 <h2> 🤳 Connect with me:</h2>
 

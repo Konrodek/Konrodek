@@ -2,7 +2,8 @@
 
 <h2>
   <b></b>Psychologist with love for technology! Artificial Intelligence and Machine Learning student and passionate learner!</h2></b> 
-  <b></b>👨‍💻 UX Projects:</b></h2>
+  <b>👨‍💻 UX Projects:</b>
+</h2>
 
 - <b>DogWalker App:</b>
   - [Hi-Fi DogWalker Project](https://www.figma.com/file/qxok7yUTTRky79BFDeRMZL/doggo?type=design&node-id=0%3A1&mode=design&t=EvWsYWJEGGrRgVUU-1)
@@ -14,7 +15,9 @@
   - [Elevator Control Panel inside 10 000 Floor Building](https://www.figma.com/file/x2K0NZbqjic7871nTgLxko/Untitled?type=design&node-id=0%3A1&mode=design&t=ZJfad430u0TXUTj9-1)
 - <b>Collaborative project</b>
   - [Akademia Programisty](https://akademiaprogramisty.pl/)
-
+- <b>ITBase (website project)</b>
+  - [ITBase - sitemap](https://www.figma.com/file/AT2cVG9DEVJongY60vMhYj/ITBase---sitemap?type=design&node-id=0%3A1&mode=design&t=5fkUNzjGblX5rq2d-1)
+  - [ITBase - Lo-Fi](https://www.figma.com/file/opny9OGJPoSIuVSS6JLL1H/ITBase---Lo-Fi?type=design&node-id=0%3A1&mode=design&t=2J6BFGFYDP183NXa-1)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

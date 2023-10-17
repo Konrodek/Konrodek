@@ -2,7 +2,10 @@
 
 <h2>
   <b></b>Psychologist with love for technology! Artificial Intelligence and Machine Learning student and a passionate learner!</h2></b> 
-  
+ 
+  <b>👨‍💻 Methodology and statistics:</b></h2>    
+  - [Methodology and statistics with IBM SPSS](https://docs.google.com/spreadsheets/d/12L411T21Gm-84bNKPHyhccrKj_c4Rb1D/edit?usp=sharing&ouid=103319430289439158096&rtpof=true&sd=true)
+
   <b>👨‍💻 UX Projects:</b>
 </h2>
 

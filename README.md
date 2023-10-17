@@ -1,7 +1,8 @@
 <h1>Hi, I'm Konrad!</h1>
 
 <h2>
-  <b></b>Psychologist with love for technology! Artificial Intelligence and Machine Learning student and passionate learner!</h2></b> 
+  <b></b>Psychologist with love for technology! Artificial Intelligence and Machine Learning student and a passionate learner!</h2></b> 
+  
   <b>👨‍💻 UX Projects:</b>
 </h2>
 
@@ -18,6 +19,9 @@
 - <b>ITBase (website project)</b>
   - [ITBase - sitemap](https://www.figma.com/file/AT2cVG9DEVJongY60vMhYj/ITBase---sitemap?type=design&node-id=0%3A1&mode=design&t=5fkUNzjGblX5rq2d-1)
   - [ITBase - Lo-Fi](https://www.figma.com/file/opny9OGJPoSIuVSS6JLL1H/ITBase---Lo-Fi?type=design&node-id=0%3A1&mode=design&t=2J6BFGFYDP183NXa-1)
+ 
+<h2><b>👨‍💻 Methodology and statistics:</b></h2>    
+  - [Methodology and statistics with IBM SPSS](https://docs.google.com/spreadsheets/d/12L411T21Gm-84bNKPHyhccrKj_c4Rb1D/edit?usp=sharing&ouid=103319430289439158096&rtpof=true&sd=true)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

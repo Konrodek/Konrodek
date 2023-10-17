@@ -6,6 +6,9 @@
   <b>👨‍💻 Methodology and statistics:</b></h2>    
   - [Methodology and statistics with IBM SPSS](https://docs.google.com/spreadsheets/d/12L411T21Gm-84bNKPHyhccrKj_c4Rb1D/edit?usp=sharing&ouid=103319430289439158096&rtpof=true&sd=true)
 
+<b>👨‍💻 Psychometrics:</b></h2>    
+  - [IPIP-NEO-PI-R](https://itcntr.com/big-five)
+
   <b>👨‍💻 UX Projects:</b>
 </h2>
 
